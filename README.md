@@ -40,13 +40,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raphael911&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+### Stack & Focus
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-Cybersecurity-blue?style=for-the-badge&logo=cisco" alt="Cisco Learning" />
-  <img src="https://img.shields.io/badge/Focus-Linux%20%26%20Docker-horizontal?style=for-the-badge&logo=linux" alt="Linux Focus" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4F5D95?style=flat-square&logo=nmap&logoColor=white" />
 </p>
